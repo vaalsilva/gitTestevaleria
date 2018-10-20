@@ -14,25 +14,17 @@
 		</div>
 		<div id="principal" class="noticia">
         	<p>
-            <font size="-3">Por Ag&ecirc;ncia Brasil, Ag&ecirc;ncia Brasil, Atualizado: 8/12/2010 11:36
+            <font size="-3">Por Tribunal Superior Eleitoral - 08 de Outubro de 2018 às 08:40
             </font>
             </p><p>
             <font size="+3">
-            WikiLeaks divulga novos documentos ap&oacute;s pris&atilde;o de seu criador
+            Disputa para governador de São Paulo será decidida no 2º turno - João Dória e Márcio França
             </font>
-            </p><p>
-            <font size="-4">
-            Da Ag&ecirc;ncia Telam
-            </font>
-            </p><p>Buenos Aires - O site WikiLeaks publicou hoje (8) nova rodada de documentos da diplomacia norte-americana, mesmo ap&oacute;s a pris&atilde;o, ontem (7), de seu criador, o australiano Julian Assange. Ele foi preso em Londres, logo ap&oacute;s se apresentar a uma delegacia da capital londrina. Assange &eacute; procurado pela pol&iacute;cia da Su&eacute;cia, onde &eacute; acusado de delitos sexuais, entre outros crimes.
-            </p>
-            <p>Ele nega as acusa&ccedil;&otilde;es, afirmando que elas fazem parte de um compl&ocirc; dos Estados Unidos em repres&aacute;lia ao vazamento dos pap&eacute;is da diplomacia norte-americana em agosto passado, tratando de informa&ccedil;&otilde;es confidenciais sobre as guerras no Iraque e no Afeganist&atilde;o. O site Wikileaks informou que os vazamentos continuar&atilde;o.</p>
-            <p>Os ultimos documentos revelam que a L&iacute;bia amea&ccedil;ou o Reino Unido com &quot;terr&iacute;veis&quot; repres&aacute;lias comerciais se o pa&iacute;s n&atilde;o libertasse o acusado de um atentado contra um avi&atilde;o da extinta companhia a&eacute;rea norte-americana PanAm. O avi&atilde;o caiu na localidade escosesa de Lockerbie, em 1988.</p>
-            <p>Um segundo documento descreve em detalhes as excentricidades de Muammar Khadafi, l&iacute;der da L&iacute;bia. Um embaixador americano define Kadhafi como &quot;hipocondr&iacute;aco&quot; e &quot;obcecado pela est&eacute;tica&quot;. Outro telegrama, um despacho da embaixada norte-americana na Ar&aacute;bia Saudita, descreve uma festa oferecida por um dos pr&iacute;ncipes sauditas em que um seleto grupo de jovens consome bebidas alco&oacute;licas, burlando a lei isl&acirc;mica.</p>
-            <p>O porta-voz do WikiLeaks, Kristinn Hrafnsson, usou a rede social Twitter para anunciar a libera&ccedil;&atilde;o dos novos documentos. &quot;N&atilde;o seremos amorda&ccedil;ados nem com a&ccedil;&otilde;es judiciais, nem com censura corporativa. Wikileaks continua online. O site est&aacute; duplicado em mais de 500 lugares diferentes&quot;.</p>
-            <p>
-            Ag&ecirc;ncia Brasil - Todos os direitos reservados.
-            </p>
+	    </p><p>Os candidatos João Dória (PSDB) e Márcio França (PSB) disputarão o segundo turno das eleições para o governo de São Paulo no próximo dia 28. Com 31,77% dos votos, Dória recebeu até aquele momento 6.431.555 votos válidos. Já Márcio França obteve 21,53% dos votos, o que correspondia a 4.358.998 votos válidos.
+	    </p><p>João Dória (PSDB), de 60 anos, é natural de São Paulo. O empresário foi eleito para o cargo de prefeito da capital paulista em 2016. Antes de assumir a prefeitura, ocupou outros cargos públicos. O empresário, jornalista, publicitário ficou conhecido como entrevistador de talk-shows, palestrante e organizador de eventos empresariais. 
+	    </p><p>Márcio França é o atual governador de São Paulo, que assumiu o cargo após a saída de Geraldo Alckmin para se candidatar à Presidência da República. Advogado de formação, já foi eleito vereador por dois mandatos e também ocupou a prefeitura de sua cidade, São Vicente (SP), por duas vezes. Também já ocupou uma cadeira de deputado federal na Câmara dos Deputados.
+	    </p><p>Em São Paulo, foram registrados 6,95% de votos brancos, 13,67% de nulos e a abstenção foi de 21,53%.
+	</p><p>Fonte: http://www.tse.jus.br/imprensa/noticias-tse/2018/Outubro/disputa-para-governador-de-sao-paulo-sera-decidida-no-2o-turno-1
         </div>
 		<div id="iniciar">
 			<?php include("baixo.php");?>
